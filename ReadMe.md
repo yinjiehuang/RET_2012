@@ -1,17 +1,17 @@
-===============================
+=========
  Canny Edge Detection DEMO
+=========
  Yinjie Huang
+ 
  RET Project
+ 
  University of Central Florida
+ 
  2012
-===============================
 
 
 
-==================================
-=========
 CONTENTS:
-=========
 
 1. General Information
 2. Requirements
@@ -21,13 +21,13 @@ CONTENTS:
 
 ==================================
 
-1. GENERAL INFORMATION
+1.GENERAL INFORMATION
 
 This software was written as the demo of RET project Summer 2012. It represents an implementation of canny edge detection algorihm, including a complete graphical user interface (GUI). All rights belong to the author.
 
 
 
-2. REQUIREMENTS
+2.REQUIREMENTS
 
 To run this software, you need to have the following components installed:
 - Mathworks MATLAB
@@ -35,13 +35,13 @@ To run this software, you need to have the following components installed:
 
 
 
-3. INSTALLATION
+3.INSTALLATION
 
 This software doesn't require any installation. Just drop the files into a folder.
 
 
 
-4. USAGE
+4.USAGE
 
 To run the software, run the file 'Main.m' or type in 'Main' in the MATLAB command window. The script will take care of all the rest and start a graphical user interface. 
 
@@ -55,7 +55,7 @@ The basic usage is as follows:
 
 
 
-5. References
+5.References
 
 - http://www.cse.iitd.ernet.in/~pkalra/csl783/canny.pdf
 - http://homepage.cs.uiowa.edu/~cwyman/classes/spring08-22C251/homework/canny.pdf
